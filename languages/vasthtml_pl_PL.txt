@@ -1,0 +1,5 @@
+Language: Polish (pl_PL)
+Author: Błażej Kaczorowski - na potrzeby Polskiej Partii Piratów
+Version: 1.0
+Release Date: 11.02.2013
+
