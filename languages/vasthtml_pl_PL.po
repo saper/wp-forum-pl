@@ -407,7 +407,7 @@ msgid "register."
 msgstr "zarejestrować."
 
 #: wpf.class.php:1406
-msgid "Welcome Guest, posting in this forum require"
+msgid "Welcome Guest, posting in this forum requires"
 msgstr "Witamy Gościu, tworzenie wpisów na tym forum wymaga"
 
 #: wpf.class.php:1406
